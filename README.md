@@ -17,7 +17,11 @@ Note I do not accept to sell the tool or take it for sale
 ### Install Tool
 
 ```
-git clone https://github.com/kanekikon/checker
+-  pkg update && pkg upgrade
+-  pkg install python -y
+-  pkg install python2 -y
+-  pkg install git -y
+-  git clone https://github.com/kanekikon/checker
 ```
 
 
