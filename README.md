@@ -8,94 +8,18 @@
 A simple tool to get usernames for the Instagram account for free. 
 Note I do not accept to sell the tool or take it for sale
 
-### NOTICE
+### System 
 
+-  Linux
+-  Windows ( CMD ) 
+-  Android ( Termux ) 
 
-
-### Support me
-
-> **Bitcoin wallet:** 3Kr5C9t9HWwPfqzSNXeBNyRvJWw9sSLeKy<br> >**PayPal:** https://www.paypal.me/Msheikh03
-
-### Requirements
-
--   Python _v3.x.x_
--   ~~Kali Linux 2.0~~
--   ~~TOR~~
-
-### Install Dependencies
+### Install Tool
 
 ```
-pip3 install -r requirements.txt
+git clone https://github.com/kanekikon/checker
 ```
 
-### Help
-
-```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py -h
-usage: instagram.py [-h] [-m MODE] username wordlist
-
-positional arguments:
-  username              email or username
-  wordlist              password list
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -m MODE, --mode MODE  modes: 0 => 32 bots; 1 => 16 bots; 2 => 8 bots; 3 => 4 bots
-```
-
-### Usage
-
-```
-python3 instagram.py <username> <wordlist> -m <mode>
-```
-
-### Bots(Threads)
-
--   4 bots: 64 passwords at a time
--   8 bots: 128 passwords at a time
--   16 bots: 256 passwords at a time
--   32 bots: 512 passwords at a time
-
-### Modes
-
--   0: 32 bots
--   1: 16 bots
--   2: 8 bots
--   3: 4 bots
-
-### Chill mode
-
-This mode uses only 4 bots, or 64 passwords at a time.
-
-```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 3
-```
-
-### Moderate mode 1
-
-This mode uses 8 bots, or 128 passwords at a time.
-
-```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 2
-```
-
-### Moderate mode 2
-
-This mode uses 16 bots, or 256 passwords at a time.
-
-```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 1
-```
-
-### Savage mode
-
-This mode uses 32 bots, or 512 passwords at a time.
-
-```
-C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
-```
-
-### If you don't specify a mode, then mode is set to 2
 
 ### Run
 
