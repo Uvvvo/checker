@@ -100,27 +100,13 @@ C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
 ### Run
 
 ```
-[-] Wordlist: pass.lst
-[-] Username: Sami09.1
-[-] Password: 272
-[-] Complete: 45.51%
-[-] Attempts: 228
-[-] Browsers: 273
-[-] Exists: True
+[-] cd checker 
+[-] chmod +x checker.py
+[-] python checker.py
 ```
 
 ### Stop
 
 ```
-[-] Wordlist: pass.lst
-[-] Username: Sami09.1
-[-] Password: Sami123
-[-] Complete: 62.67%
-[-] Attempts: 314
-[-] Browsers: 185
-[-] Exists: True
-
-[!] Password Found
-[+] Username: Sami09.1
-[+] Password: Sami123
+[!] Ctrl + Z
 ```
