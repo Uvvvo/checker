@@ -6,7 +6,7 @@ print("""
            
                       # --------  Checker ------- #
                          
-                -- By : Hussain Yacoub - Tele : SSSCW --
+                -- By : Hussain Yacoub - Tele : @CTlTl --
               
              ----------------------------------------------
                                                 """)
